@@ -95,13 +95,11 @@ ul.side-nav.fixed li.logo {
   background-color: #fafafa;
   border-bottom: 1px solid #ddd;
   box-sizing: content-box;
-  min-height: 250px;
+  min-height: 220px;
   padding: 5px 30px 30px 30px;
 }
 ul.side-nav.fixed li.avatar {
-  background-color: #fafafa;
-  border-bottom: 1px solid #ddd;
-  padding: 500px 500px 500px;
+  line-height: 16px;
 }
 ul.side-nav.fixed li.logo a {
   font-weight: 200;
